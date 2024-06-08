@@ -1,0 +1,6 @@
+@FitTrack.Workout_HostAddress = http://localhost:5122
+
+GET {{FitTrack.Workout_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
